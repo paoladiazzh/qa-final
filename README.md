@@ -1,4 +1,4 @@
-# Unit Testing - Proyecto QA
+# Unit Testing - Proyecto QA - Paola Díaz
 
 ## Descripción
 
