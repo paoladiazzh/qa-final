@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn clean test:*)",
+      "Bash(java:*)",
+      "Bash(sdk list:*)",
+      "Bash(source:*)",
+      "Bash(sdk use java:*)",
+      "Bash(mvn test:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
